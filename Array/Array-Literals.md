@@ -11,7 +11,6 @@ const coffees = ["French Roast", "Colombian", "Kona"];
 console.log(coffees);
 // আউটপুট: [ 'French Roast', 'Colombian', 'Kona' ]
 ```
-
 উপরের উদাহরণে:
 - `coffees` নামক অ্যারে তিনটি স্ট্রিং উপাদান দিয়ে তৈরি করা হয়েছে: `"French Roast"`, `"Colombian"`, এবং `"Kona"`.
 - এই অ্যারের দৈর্ঘ্য (`length`) হলো ৩।
